@@ -1,0 +1,94 @@
+PS L:\Repositorio\C216> py .\sistema_faculdade.py
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Lucas
+Digite o e-mail do aluno: lucas.sawada@ges.inatel.br
+Digite a sigla do curso (GEA, GES, GEC, GEP, GEB, GET, GEL): GES
+
+Aluno 'Lucas' cadastrado com sucesso! Matrícula: GES1
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Pedro
+Digite o e-mail do aluno: pedro@ges.inatel.br
+Digite a sigla do curso (GEA, GES, GEC, GEP, GEB, GET, GEL): GES
+
+Aluno 'Pedro' cadastrado com sucesso! Matrícula: GES2
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Ana
+Digite o e-mail do aluno: ana@get.inatel.br
+Digite a sigla do curso (GEA, GES, GEC, GEP, GEB, GET, GEL): GET
+
+Aluno 'Ana' cadastrado com sucesso! Matrícula: GET1
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GES1, Nome: Lucas, E-mail: lucas.sawada@ges.inatel.br, Curso: GES
+Matrícula: GES2, Nome: Pedro, E-mail: pedro@ges.inatel.br, Curso: GES
+Matrícula: GET1, Nome: Ana, E-mail: ana@get.inatel.br, Curso: GET
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 3
+Digite a matrícula do aluno a ser atualizado: GET1
+Atualizando dados do aluno: Ana
+Digite o novo nome (atual: Ana): Anna   
+Digite o novo e-mail (atual: ana@get.inatel.br): anna@get.inatel.br
+
+Aluno atualizado com sucesso!
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 4
+Digite a matrícula do aluno a ser removido: GES2
+Aluno 'Pedro' removido com sucesso!
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GES1, Nome: Lucas, E-mail: lucas.sawada@ges.inatel.br, Curso: GES
+Matrícula: GET1, Nome: Anna, E-mail: anna@get.inatel.br, Curso: GET
+
+ Menu de opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 5
+Saindo...
